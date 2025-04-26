@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "673b3974bf8710f2d2a4e444"
+  },
+  "escort": {
+    "_id": "6732bf915edc5e01c0e95b00",
+    "address": "earth",
+    "avatar": "1.jpg",
+    "gender": "female",
+    "nickname": "权淑珍",
+    "phone": "15699998888",
+    "username": "quanshuzhen",
+    "password": "1",
+    "price": 120,
+    "remark": "I am warm and have good communication skills。",
+    "service": "Accompany the whole process",
+    "state": "free",
+    "role": "escort"
+  },
+  "user": {
+    "_id": "673155e05edc5e01c0e95abf",
+    "address": "earth",
+    "avatar": "2.jpg",
+    "gender": "male",
+    "nickname": "张三",
+    "phone": "13800138000",
+    "username": "zhangsan",
+    "password": "1",
+    "role": "patient"
+  },
+  "doctor": {
+    "_id": "673157b85edc5e01c0e95ac5",
+    "age": 52,
+    "gender": "female",
+    "name": "张小丽",
+    "office_id": "673158415edc5e01c0e95ac8",
+    "avatar": "avatar-2.jpg",
+    "phone": "17899996655",
+    "skill": "she specializes in the diagnosis and treatment of liver, gallbladder, spleen, kidney and other diseases",
+    "work_day": [
+      "Monday",
+      "Wednesday and other diseases"
+    ],
+    "booking_person_num": 1,
+    "office": {
+      "_id": "673158415edc5e01c0e95ac8",
+      "address": "3rd Floor, Medical University302",
+      "major": "刘波director",
+      "name": "internal medicine"
+    }
+  },
+  "state": "Accompaniment",
+  "create_time": {
+    "$date": "2024-11-18T12:56:20.005Z"
+  }
+}]

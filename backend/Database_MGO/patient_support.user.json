@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "673155e05edc5e01c0e95abf"
+  },
+  "address": "北京市海淀区西二旗",
+  "avatar": "2.jpg",
+  "gender": "男",
+  "nickname": "张三",
+  "phone": "13800138000",
+  "username": "zhangsan",
+  "password": "1",
+  "role": "patient"
+},
+{
+  "_id": {
+    "$oid": "6732bab45edc5e01c0e95afd"
+  },
+  "address": "北京市天安门西大直街",
+  "avatar": "2.jpg",
+  "gender": "男",
+  "nickname": "管理员",
+  "phone": "13800138000",
+  "username": "admin",
+  "password": "1",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "6732bf915edc5e01c0e95b00"
+  },
+  "address": "北京市海淀区西二旗",
+  "avatar": "1.jpg",
+  "gender": "女",
+  "nickname": "权淑珍",
+  "phone": "15699998888",
+  "username": "quanshuzhen",
+  "password": "1",
+  "price": 120,
+  "remark": "本人待人热情，有良好的沟通能力。",
+  "service": "全程陪诊",
+  "state": "陪诊中",
+  "role": "escort"
+}]

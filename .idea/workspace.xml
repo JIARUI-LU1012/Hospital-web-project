@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e012e2a-2d28-4d1f-8037-4b0f1d43e41c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/payment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/AIView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ChartView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/MapView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/DoctorChooseView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/DoctorChooseView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/EscortBookingView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/EscortBookingView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/LoginView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/LoginView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/RegisterView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/RegisterView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/UserOrderView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/UserOrderView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.5.3\conf\settings - oscar.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2o08SA5l7cJE6v2GqDXON3qDocQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/oscar/20250407/coursework-JIARUI-LU1012/frontend/src/views",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.webpack",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\oscar\20250407\coursework-JIARUI-LU1012\frontend\src\views" />
+      <recent name="D:\oscar\20250407\coursework-JIARUI-LU1012\frontend\src\assets" />
+      <recent name="D:\oscar\vue3-mongodb-医院陪诊系统\vue3\src\assets" />
+      <recent name="D:\oscar\vue3-mongodb-医院陪诊系统\vue3\src\stores" />
+      <recent name="D:\oscar\vue3-mongodb-医院陪诊系统\vue3\src\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\oscar\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e012e2a-2d28-4d1f-8037-4b0f1d43e41c" name="Changes" comment="" />
+      <created>1729995131995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729995131995</updated>
+      <workItem from="1729995143831" duration="7999000" />
+      <workItem from="1730006151807" duration="1141000" />
+      <workItem from="1730334101749" duration="14826000" />
+      <workItem from="1730420031375" duration="10381000" />
+      <workItem from="1730680450495" duration="1450000" />
+      <workItem from="1730793328088" duration="15539000" />
+      <workItem from="1730882058157" duration="2219000" />
+      <workItem from="1730949770648" duration="1440000" />
+      <workItem from="1730968247841" duration="1512000" />
+      <workItem from="1731054599974" duration="1630000" />
+      <workItem from="1731283901522" duration="490000" />
+      <workItem from="1731286394505" duration="7920000" />
+      <workItem from="1731306093552" duration="28000" />
+      <workItem from="1731306150425" duration="31721000" />
+      <workItem from="1731458940221" duration="119000" />
+      <workItem from="1731459072585" duration="578000" />
+      <workItem from="1731554350943" duration="2622000" />
+      <workItem from="1744784179839" duration="775000" />
+      <workItem from="1744867988385" duration="30316000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1730334211297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730334211297</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1730793391102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730793391102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加axios依赖 完善前台">
+      <created>1730882604475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730882604475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加axios依赖 完善前台">
+      <created>1730969736440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730969736440</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加聊天">
+      <created>1731401992687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731401992687</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完善聊天">
+      <created>1731459642287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731459642287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="登录页">
+      <created>1731560888576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731560888576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="增加axios依赖 完善前台" />
+    <MESSAGE value="增加聊天" />
+    <MESSAGE value="完善聊天" />
+    <MESSAGE value="登录页" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录页" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

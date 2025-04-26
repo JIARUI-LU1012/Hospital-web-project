@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "673155e05edc5e01c0e95abf"
+  },
+  "address": "earth",
+  "avatar": "2.jpg",
+  "gender": "male",
+  "nickname": "张三",
+  "phone": "13800138000",
+  "username": "zhangsan",
+  "password": "1",
+  "role": "patient"
+},
+{
+  "_id": {
+    "$oid": "6732bab45edc5e01c0e95afd"
+  },
+  "address": "moon",
+  "avatar": "2.jpg",
+  "gender": "male",
+  "nickname": "admin员",
+  "phone": "13800138000",
+  "username": "admin",
+  "password": "1",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "6732bf915edc5e01c0e95b00"
+  },
+  "address": "earth",
+  "avatar": "1.jpg",
+  "gender": "female",
+  "nickname": "权淑珍",
+  "phone": "15699998888",
+  "username": "quanshuzhen",
+  "password": "1",
+  "price": 120,
+  "remark": "I am warm and have good communication skills。",
+  "service": "Accompany the whole process",
+  "state": "Accompaniment",
+  "role": "escort"
+}]

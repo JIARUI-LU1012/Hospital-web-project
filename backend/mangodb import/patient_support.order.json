@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6732c1d2bc91ca8c3167212b"
+  },
+  "escort": {
+    "_id": "6732bf915edc5e01c0e95b00",
+    "address": "earth",
+    "avatar": "1.jpg",
+    "gender": "female",
+    "nickname": "权淑珍",
+    "phone": "15699998888",
+    "username": "zhangsan",
+    "password": "1",
+    "price": 120,
+    "remark": "I am warm and have good communication skills。",
+    "service": "Accompany the whole process",
+    "state": "free",
+    "role": "escort"
+  },
+  "user": {
+    "_id": "673155e05edc5e01c0e95abf",
+    "address": "earth",
+    "avatar": "2.jpg",
+    "gender": "male",
+    "nickname": "张三",
+    "phone": "13800138000",
+    "username": "zhangsan",
+    "password": "1",
+    "role": "patient"
+  },
+  "state": "Accompaniment",
+  "create_time": {
+    "$date": "2024-11-12T02:47:46.100Z"
+  }
+}]

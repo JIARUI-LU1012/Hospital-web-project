@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "673157d85edc5e01c0e95ac7"
+  },
+  "address": "3rd Floor, Medical University331",
+  "major": "张自中director",
+  "name": "Cardiac surgery"
+},
+{
+  "_id": {
+    "$oid": "673158415edc5e01c0e95ac8"
+  },
+  "address": "3rd Floor, Medical University302",
+  "major": "刘波director",
+  "name": "internal medicine"
+}]
