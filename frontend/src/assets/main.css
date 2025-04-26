@@ -1,0 +1,45 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+.center {
+  text-align: center;
+}
+.avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+}
+
+.el-table th.el-table__cell {
+  background-color: #e0e2e4 !important;
+  color: #000;
+}
+.el-main:has(.map) {
+  padding: 0 !important;
+}
+.el-main {
+  height: calc(100vh - 60px);
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
